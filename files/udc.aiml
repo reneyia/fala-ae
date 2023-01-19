@@ -5,3 +5,11 @@
     <template>I have no answer for that.</template>
   </category>
 </aiml>
+
+
+<aiml>
+  <category>
+      <pattern>*</pattern>
+      <template>Você disse: <star/></template>
+   </category>
+</aiml>
